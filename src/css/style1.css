@@ -1,0 +1,31 @@
+body {
+       background:#191919;
+       color:white;
+}
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  font-size:20px;
+  
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: red;
+}
+.wwpp {
+ color:#ff0000;
+ font-size:30px;
+ padding:10px;
+ text-align:center;
+ font-weight:bold;
+ }
+.ssvv {
+ color:#008000;
+ font-size:30px;
+ padding:10px;
+ text-align:center;
+ font-weight:bold;
+ }
