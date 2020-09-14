@@ -1,0 +1,40 @@
+body {
+         margin:5px;
+         padding:5px;
+         background:#191919;
+         color:#ffffff;
+}
+
+
+.header {
+         text-align:center;
+         font-weight:bold;
+         font-size:25px;
+         color:#ff00ff;
+}
+hr {
+    height: 1px;
+    color: #123455;
+    background-color: #123455;
+    border: none;
+}
+.ls {
+         font-size:20px;
+}
+a:link {
+         color:rgb(220,20,60);
+         text-decoration:none;
+}
+a:visited {
+         color:rgb(220,20,60);
+         text-decoration:none;
+}
+a:hover {
+         text-decoration: underline;
+}
+a:active {
+         text-decoration: underline;
+}
+div > center > h3 {
+         color:rgb(128, 0, 255);
+}
