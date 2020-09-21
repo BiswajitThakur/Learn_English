@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="Biswajit Thakur" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Past Tenses</title>
+<script src="./js/tense.js"></script>
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+   <div class="header">Past Tense</div><br>
+<div class="defPT">
+   <p style="color:rgb(160,82,45);">Past Tenses ([{pt1}]) : [{pt2}]</p>
+   <p><div style="color:rgb(148,0,211);">Past tense is classified into four categories.</div>
+     <ol>
+     <a href="./past.html#Indefinite"><li>Past Indefinite Tense</li></a>
+     <a href="./past.html#Continuous"><li>Past Continuous Tense</li></a>
+     <a href="./past.html#perfect"><li>Past Perfect Tense</li></a>
+     <a href="./past.html#per_con"><li>Past Perfect Continuous Tense</li></a>
+     </ol>
+   </p>
+</div>
+
+<hr/>
+<div id="Indefinite">
+     <center><h3>Past Indefinite Tense</h3></center>
+    <p style="color:rgb(46,139,87);">[{pi1}]</p>
+    <div style="text-align:left;color:#ff0080;" >Structure: Sub + v2 + Object </div><br/>
+    <div style="text-align:left;color:rgb(189,183,107);">Example :</div>
+  <ol id="past_i" style="color:#cccccc;">
+     <!-- ls -->
+  </ol>
+</div>
+
+<hr/>
+<div id="Continuous">
+     <center><h3>Past Continuous Tense</h3></center>
+    <p style="color:rgb(46,139,87);">[{pc1}]</p>
+    <div style="text-align:left;color:#ff0080;" >Structure: Subject + was/were + v1-ing + object.</div><br/>
+    <div style="text-align:left;color:rgb(189,183,107);">Example :</div>
+  <ol id="past_c" style="color:#cccccc;">
+     <!-- ls -->
+  </ol>
+ </div>
+ 
+ <hr/>
+ <div id="perfect">
+ <center><h3>Past Perfect Tense</h3></center>
+ <p style="color:rgb(46,139,87);">[{ppf1}]</p>
+ <div style="text-align:left;color:#ff0080;" >Structure: Subject + had + V3 + object.</div><br/>
+ <div style="text-align:left;color:rgb(189,183,107);">Example :</div>
+ <ol id="past_p" style="color:#cccccc;">
+ <!-- ls -->
+ </ol>
+ </div>
+ 
+<hr/>
+ <div id="per_con">
+ <center><h3>Past Perfect Continuous Tense</h3></center>
+ <p style="color:rgb(46,139,87);">[{ppf1}]</p>
+ <div style="text-align:left;color:#ff0080;" >Structure: Subject + had been + V1-ing + object + time reference.</div><br/>
+ <div style="text-align:left;color:rgb(189,183,107);">Example :</div>
+ <ol id="past_pp" style="color:#cccccc;">
+ <!-- ls -->
+ </ol>
+</div>
+
+<script src="./js/past.indefinite.js"></script>
+<script src="./js/past.continous.js"></script>
+<script src="./js/past.perfect.js"></script>
+<script src="./js/past.perfect.continous.js"></script>
+<script src="./js/past.js"></script>
+<script type="text/javascript">
+(function(a){
+'use strict';
+    try {
+       const url = new URL(a);
+       const _protocol = url.protocol;
+       const _href = url.href;
+   switch (_protocol){
+         case 'https:':
+         case 'http:':
+         case 'file:':
+                 return _href;
+               break;
+         case 'content:':
+             const AndroidReg = /^(content:)\/(\/?)+[a-zA-Z0-9\.\u005F]+\/[a-zA-Z0-9\.\u005F]+/i;
+             const AndroidUrl = _href.replace(AndroidReg,'file:\/\/\/sdcard');
+             document.body.innerHTML=`
+    <div style="text-align:center;color:rgba(255,0,0,1);background-color:rgba(200,0,0,0.3);margin:5px;padding:5px;width:${screen.width}px;">
+    <h3>Error URL<\/h3><br>
+    <div style="text-align:left;word-wrap:break-word;">${_href}<\/div>
+    <\/div>
+    <div style="text-align: left;color:rgba(0,100,100,1);background-color:rgba(0,255,0,0.1);margin:5px;padding:5px;width:${screen.width}px;">
+    <div style="color:rgb(250,0,250);font-size:20px;text-align:left;word-wrap:break-word;">open this url<\/div><br>
+    <div style="word-wrap:break-word;">${AndroidUrl}<\/div>
+    <\/div>
+             `; //\//
+                   return AndroidUrl;
+               break;
+         default:
+                 return _href;
+    }
+  } catch (err){
+       console.error(err);
+       return 'Invalid URL'; }
+}(window.location));
+</script>
+</body>
+</html>

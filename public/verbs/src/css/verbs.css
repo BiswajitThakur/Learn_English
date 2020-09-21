@@ -1,0 +1,43 @@
+body {
+     margin:5px;
+     padding:5px;
+     font-family:arial;
+     color:#ffffff;
+     background:#34495e;
+     text-align: center;
+}
+table.hovertable {
+	font-family: verdana,arial,sans-serif;
+	font-size:12px;
+	color:#abcdef;
+	border-width: 1px;
+	border-color:#191919;
+	border-collapse: collapse;
+	width:100%;
+}
+table.hovertable th {
+	background:#34495e;
+	border-width: 1px;
+	padding: 8px;
+	color:#ff00ff;
+	width:60px;
+	border-style: solid;
+	border-color: #191919;
+}
+table.hovertable tr {
+	background:#34495e;
+}
+table.hovertable td {
+	border-width: 1px;
+	padding: 5px;
+	border-style: solid;
+	border-color: #191919;
+}
+#bn {color:tomato;}
+#myInput {
+    font-family:times;
+    color:#f0f0f0;
+    border: 1px solid #191919;
+    width:100%;
+    background: linear-gradient(-45deg,#34495e,#191919,#34495e,#191919);
+}
