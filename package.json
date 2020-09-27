@@ -1,0 +1,20 @@
+{
+  "name": "learn_english",
+  "version": "1.0.0",
+  "description": "learn english",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiswajitThakur/Learn_English.git"
+  },
+  "author": "Biswajit Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiswajitThakur/Learn_English/issues"
+  },
+  "homepage": "https://github.com/BiswajitThakur/Learn_English#readme"
+}

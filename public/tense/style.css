@@ -4,7 +4,17 @@ body {
          background:#191919;
          color:#ffffff;
 }
-
+h2 {
+         text-align:center;
+         font-weight:normal;
+         color:#ec7a3b;
+}
+select {
+  border: 1px solid red;
+  color:#c72871;
+  background:#191919;
+  text-align:center;
+}
 
 .header {
          text-align:center;

@@ -5,13 +5,14 @@ const fs = require('fs');
 
 const color = require('./js/color.js');
 
-const host ='localhost';
-const port = 8000;
+const host = require('./js/Myip.js');
+const port = 8181;
 
 const mimeTypes = require("./js/mimeTypes.js");
 
 http.createServer((req,res)=>{
-  
+    
+    
   let filePath,extname,contentType;
   
        req.url = req.url.split('?')[0];
@@ -25,6 +26,8 @@ http.createServer((req,res)=>{
    
    console.log(color.green(filePath));
    
+   res.writeHead(200, { 'Content-Type' : contentType });
+   /////
    fs.readFile(filePath, function(err, data){
            if(err){
                 if(err.code === 'ENOENT'){
@@ -41,8 +44,7 @@ http.createServer((req,res)=>{
               res.end(data,'utf-8');
            }
    });
-  
 
 }).listen(port,host, function(){
-         console.log(color.cyan('server running at https:\/\/'+host+':'+port+'\/'));
+         console.log(color.cyan('server running at http:\/\/'+host+':'+port+'\/'));
 });

@@ -1,0 +1,61 @@
+{
+ "discription":"Preposition of Time",
+ "date":"08\/06\/2020",
+
+   "at":{
+      "discription":"for a precise time",
+      "examples_1":[
+                   "at 3 o'clock",
+                   "at 10:30 am",
+                   "at noon \/night",
+                   "at bedtime",
+                   "at dinnertime",
+                   "at sunrise",
+                   "at sunset",
+                   "at the moment",
+                   "at the same time"
+                   ],
+      "examples_2":[
+                   "The library door closes at midnight.",
+                   "I have a meeting at 9 am.",
+                   "The stars shine at night.",
+                   "I stay with my family at New Year's Eve.",
+                   "We finished the exam at the same time.",
+                   "Tom is not home at present."
+                   ]
+         },
+
+  "in":{
+      "discription":"months, years, centuries, long periods",
+      "examples_1":[
+                   "in May",
+                   "in summer",
+                   "in 1947",
+                   "in the past\/future",
+                   "in the Ice Age",
+                   "in the next century"
+                   ],
+      "examples_2":[
+                   "I woke up in the morning.",
+                   "I went to Puri last year in summer.",
+                   "She was born in 2001.",
+                   "We will visit Agra in May."
+                   ]
+         },
+   "on":{
+       "discription":"days, dates",
+       "examples_1":[
+                    "on Monday",
+                    "on Sunday",
+                    "on my birthday",
+                    "on 6th March",
+                    "on 25th Dec, 2014"
+                    ],
+       "examples_2":[
+                    "I have my guitar classes on Monday evening.",
+                    "I go to yoga on Sunday",
+                    "I have my meetings on Monday evening."
+                    ]
+    
+         }
+}

@@ -13,4 +13,6 @@ for(let devName in interfaces) {
 	}
 };
 
-module.exports = ip;
+let myip = ip || '127.0.0.1';
+
+module.exports = myip;
