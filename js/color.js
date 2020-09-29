@@ -1,4 +1,5 @@
 
+
 module.exports = {
          black : function(a){
               return '\x1b[30m'+a+"\x1b[0m";
