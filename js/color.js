@@ -1,5 +1,3 @@
-
-
 module.exports = {
          black : function(a){
               return '\x1b[30m'+a+"\x1b[0m";
@@ -49,5 +47,4 @@ module.exports = {
          bgWhite : function(a){
                return "\x1b[47m"+a+"\x1b[0m";
          }
-
 };

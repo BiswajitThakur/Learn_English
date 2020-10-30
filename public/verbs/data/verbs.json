@@ -1,0 +1,835 @@
+[
+   {
+      "bn": "\u0985\u09A8\u09C1\u09AE\u09A4\u09BF \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "allow",
+      "v2": "allowed",
+      "v3": "allowed",
+      "id": "12e441df5c8d529bb93d78cc70221fff"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u0995\u099F \u09B9\u0993\u09AF\u09BC\u09BE",
+      "v1": "appear",
+      "v2": "appeared",
+      "v3": "appeared",
+      "id": "396d48928416360da464396f4f7aba43"
+   },
+   {
+      "bn": "\u09A4\u09C8\u09B0\u09BF \u0995\u09B0\u09BE",
+      "v1": "build",
+      "v2": "built",
+      "v3": "built",
+      "id": "3d2dc4d7057c60fa92eb560af34ab803"
+   },
+   {
+      "bn": "\u09AB\u09CB\u099F\u09BE\u09A8\u09CB",
+      "v1": "boil",
+      "v2": "boiled",
+      "v3": "boiled",
+      "id": "0db9640b4c9ef3002ca23431de538230"
+   },
+   {
+      "bn": "\u099C\u09CD\u09AC\u09BE\u09B2\u09BE\u09A8\u09CB",
+      "v1": "burn",
+      "v2": "burnt",
+      "v3": "burnt",
+      "id": "e91e2ee3b6dbe25e8e1c84b28bd30cff"
+   },
+   {
+      "bn": "\u09A7\u09B0\u09BE",
+      "v1": "catch",
+      "v2": "caught",
+      "v3": "caught",
+      "id": "f81a81efdef939667181dad8de39cdf8"
+   },
+   {
+      "bn": "\u09A8\u0995\u09B2 \u0995\u09B0\u09BE",
+      "v1": "copy",
+      "v2": "copied",
+      "v3": "copied",
+      "id": "40dd1a9bea90253d6bba9c51660d8e17"
+   },
+   {
+      "bn": "\u09AC\u09B9\u09A8 \u0995\u09B0\u09BE",
+      "v1": "carry",
+      "v2": "carried",
+      "v3": "carried",
+      "id": "9483cf5dc24ff351a69b4d1334913f93"
+   },
+   {
+      "bn": "\u09AA\u09B0\u09BF\u09B7\u09CD\u0995\u09BE\u09B0 \u0995\u09B0\u09BE",
+      "v1": "clean",
+      "v2": "cleaned",
+      "v3": "cleaned",
+      "id": "706cbf3d3f187c28a0f56302e785a1b2"
+   },
+   {
+      "bn": "\u099A\u09A1\u09BC\u09BE",
+      "v1": "climb",
+      "v2": "climbed",
+      "v3": "climbed",
+      "id": "66ac4273b56d5bf02fd2ed9b070a124a"
+   },
+   {
+      "bn": "\u09AC\u09A8\u09CD\u09A7 \u0995\u09B0\u09BE",
+      "v1": "close",
+      "v2": "closed",
+      "v3": "closed",
+      "id": "ac059f8669560e7e0e637f5605ac7170"
+   },
+   {
+      "bn": "\u09B0\u09BE\u09A8\u09CD\u09A8\u09BE \u0995\u09B0\u09BE",
+      "v1": "cook",
+      "v2": "cooked",
+      "v3": "cooked",
+      "id": "5e72df1e4ee8ab109104e01c970a21a5"
+   },
+   {
+      "bn": "\u09B8\u09AC\u09A7\u09BE\u09A8 \u09A5\u09BE\u0995\u09BE",
+      "v1": "care",
+      "v2": "cared",
+      "v3": "cared",
+      "id": "16d9d4f1ef8d90cae6f0ae6b46f48108"
+   },
+   {
+      "bn": "\u0985\u09A4\u09BF\u0995\u09CD\u09B0\u09AE \u0995\u09B0\u09BE",
+      "v1": "cross",
+      "v2": "crossed",
+      "v3": "crossed",
+      "id": "16c9dcb4489bfaf30a89d4b5070d0558"
+   },
+   {
+      "bn": "\u09B8\u09AE\u09CD\u09AA\u09C2\u09B0\u09CD\u09A3 \u0995\u09B0\u09BE",
+      "v1": "complete",
+      "v2": "completed",
+      "v3": "completed",
+      "id": "a25cf436440d7597cf323d0ae5695fce"
+   },
+   {
+      "bn": "\u0996\u09CB\u09DC\u09BE",
+      "v1": "dig",
+      "v2": "dug",
+      "v3": "dug",
+      "id": "2297217adcadd613989c24798f791fda"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u09A4\u09BE\u09B0\u09A8\u09BE \u0995\u09B0\u09BE",
+      "v1": "deceive",
+      "v2": "deceived",
+      "v3": "deceived",
+      "id": "65bf26621f34ab9fd4924a04ac68ff58"
+   },
+   {
+      "bn": "\u09B8\u09BE\u099C\u09BE\u09A8\u09CB",
+      "v1": "decorate",
+      "v2": "decorated",
+      "v3": "decorated",
+      "id": "7c0da8e47071d36c8ed46f86371dcdcb"
+   },
+   {
+      "bn": "\u09AE\u09B0\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "die",
+      "v2": "died",
+      "v3": "died",
+      "id": "d825c06b1dca3a30aee02b4107debb3b"
+   },
+   {
+      "bn": "\u09A7\u09BE\u09B0 \u09A8\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "borrow",
+      "v2": "borrowed",
+      "v3": "borrowed",
+      "id": "b789bff8f3cdf419e89391c10a8bddad"
+   },
+   {
+      "bn": "\u09AD\u09BE\u0997 \u0995\u09B0\u09BE",
+      "v1": "divide",
+      "v2": "divided",
+      "v3": "divided",
+      "id": "2b9ed2bc84ec12012c36586de504c883"
+   },
+   {
+      "bn": "\u0989\u09AA\u09BE\u09B0\u09CD\u099C\u09A8 \u0995\u09B0\u09BE",
+      "v1": "earn",
+      "v2": "earned",
+      "v3": "earned",
+      "id": "9860e2814195aa6624e28ee7d5817394"
+   },
+   {
+      "bn": "\u09AD\u09BF\u09A4\u09B0\u09C7 \u0986\u09B8\u09BE",
+      "v1": "enter",
+      "v2": "entered",
+      "v3": "entered",
+      "id": "f5980cefd6cf63c3dfcbd275942e2fa9"
+   },
+   {
+      "bn": "\u09AF\u09C1\u09A6\u09CD\u09A7 \u0995\u09B0\u09BE",
+      "v1": "fight",
+      "v2": "fought",
+      "v3": "fought",
+      "id": "a539a1cd0d2853881814cca87925d3eb"
+   },
+   {
+      "bn": "\u09A6\u09C7\u0996\u09BE \u09AA\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "find",
+      "v2": "found",
+      "v3": "found",
+      "id": "f0f2876b9714d0135d1b163d7db8c99a"
+   },
+   {
+      "bn": "\u0996\u09BE\u0993\u09AF\u09BC\u09BE\u09A8\u09CB",
+      "v1": "feed",
+      "v2": "fed",
+      "v3": "fed",
+      "id": "c867bf587bb63812283b208a102ca1e5"
+   },
+   {
+      "bn": "\u09B6\u09C7\u09B7 \u0995\u09B0\u09BE",
+      "v1": "finish",
+      "v2": "finished",
+      "v3": "finished",
+      "id": "2aadb196ef012443e4e0a60ce68ac6d5"
+   },
+   {
+      "bn": "\u09AD\u09DF \u0995\u09B0\u09BE",
+      "v1": "fear",
+      "v2": "feared",
+      "v3": "feared",
+      "id": "56468aa2d8349066e6b05e1857a8a625"
+   },
+   {
+      "bn": "\u099D\u09CB\u09B2\u09BE\u09A8\u09CB",
+      "v1": "hang",
+      "v2": "hung",
+      "v3": "hung",
+      "id": "c31d85b21a8a4b8bbaec800b1bc4769a"
+   },
+   {
+      "bn": "\u09AB\u09BE\u0981\u09B8\u09BF \u09A6\u09C7\u09DF\u09BE",
+      "v1": "hang",
+      "v2": "hanged",
+      "v3": "hanged",
+      "id": "e66e46e03c19e79fd8b64bfe2b840f57"
+   },
+   {
+      "bn": "\u09A7\u09B0\u09BE",
+      "v1": "hold",
+      "v2": "held",
+      "v3": "held",
+      "id": "04d0b278dd3da306a7c2c478a270eb1e"
+   },
+   {
+      "bn": "\u09AD\u09BE\u09A1\u09BC\u09BE \u0995\u09B0\u09BE",
+      "v1": "hire",
+      "v2": "hired",
+      "v3": "hired",
+      "id": "e933c87198c314af1d528c6de6e97b15"
+   },
+   {
+      "bn": "\u09B6\u09BF\u0995\u09BE\u09B0 \u0995\u09B0\u09BE",
+      "v1": "hunt",
+      "v2": "hunted",
+      "v3": "hunted",
+      "id": "f2ea8826b083a2d96f3f3f6534788de2"
+   },
+   {
+      "bn": "\u0987\u09B8\u09CD\u09A4\u09CD\u09B0\u09BF \u0995\u09B0\u09BE",
+      "v1": "iron",
+      "v2": "ironed",
+      "v3": "ironed",
+      "id": "b73f0dbaab9bc7bbecc4002c691d2148"
+   },
+   {
+      "bn": "\u09A8\u09BF\u09AE\u09A8\u09CD\u09A4\u09CD\u09B0\u09A3 \u0995\u09B0\u09BE",
+      "v1": "invite",
+      "v2": "invited",
+      "v3": "invited",
+      "id": "e29d7ce97d69d5e5d8f579940a59bfb3"
+   },
+   {
+      "bn": "\u099D\u09BE\u0981\u09AA\u09BE\u09A8\u09CB",
+      "v1": "jump",
+      "v2": "jumped",
+      "v3": "jumped",
+      "id": "846798de91acac019eec580c4e4dd7d0"
+   },
+   {
+      "bn": "\u09A6\u09B0\u099C\u09BE \u09A7\u09BE\u0995\u09CD\u0995\u09BE \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "knock",
+      "v2": "knocked",
+      "v3": "knocked",
+      "id": "c80d7e75cfccbc59e6f5ca6e62493056"
+   },
+   {
+      "bn": "\u09B2\u09BE\u09A5\u09BF \u09AE\u09BE\u09B0\u09BE",
+      "v1": "kick",
+      "v2": "kicked",
+      "v3": "kicked",
+      "id": "9dae0f7be1d8867aa51a502cc6b345ef"
+   },
+   {
+      "bn": "\u09A7\u09BE\u09B0 \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "lend",
+      "v2": "lent",
+      "v3": "lent",
+      "id": "61d20e681552dec94d3b3770063275bb"
+   },
+   {
+      "bn": "\u09B9\u09BE\u09B0\u09BE\u09A8\u09CB",
+      "v1": "lose",
+      "v2": "lost",
+      "v3": "lost",
+      "id": "b67c1cfca5fe6dff74c923cc74ce1bff"
+   },
+   {
+      "bn": "\u099C\u09CD\u09AC\u09BE\u09B2\u09BE\u09A8\u09CB , \u0986\u09B2\u09CB\u0995\u09BF\u09A4 \u0995\u09B0\u09BE",
+      "v1": "light",
+      "v2": "lighted",
+      "v3": "lighted",
+      "id": "3014b48b617374cc11129a5f56c89774"
+   },
+   {
+      "bn": "\u09B6\u09C7\u0996\u09BE",
+      "v1": "learn",
+      "v2": "learnt",
+      "v3": "learnt",
+      "id": "8a4b361d9b3824526e9027c0c84d5be3"
+   },
+   {
+      "bn": "\u09AC\u09BF\u09AC\u09BE\u09B9\u09BF\u09A4 \u0995\u09B0\u09BE",
+      "v1": "marry",
+      "v2": "married",
+      "v3": "married",
+      "id": "a2393fb4c869aa7a84a6ddb04dc49a4b"
+   },
+   {
+      "bn": "\u09B8\u09B0\u09BE\u09A8\u09CB , \u099A\u09BE\u09B2\u09BE\u09A8\u09CB",
+      "v1": "move",
+      "v2": "moved",
+      "v3": "moved",
+      "id": "9314173f960858a51833f4e51e3bc9ae"
+   },
+   {
+      "bn": "\u0996\u09CB\u09B2\u09BE",
+      "v1": "open",
+      "v2": "opened",
+      "v3": "opened",
+      "id": "3f5bbdd2f6177b9ab217424cea7c744b"
+   },
+   {
+      "bn": "\u0986\u099E\u09CD\u099C\u09BE \u09AA\u09BE\u09B2\u09A8 \u0995\u09B0\u09BE",
+      "v1": "obey",
+      "v2": "obeyed",
+      "v3": "obeyed",
+      "id": "c0104d292525185237214a29c262799e"
+   },
+   {
+      "bn": "\u0986\u09A6\u09C7\u09B6 \u0995\u09B0\u09BE",
+      "v1": "order",
+      "v2": "ordered",
+      "v3": "ordered",
+      "id": "fcebd15c52b4ac0db8b244d5aa37f866"
+   },
+   {
+      "bn": "\u0995\u09C1\u09A1\u09BC\u09BE\u09A8\u09CB",
+      "v1": "pick",
+      "v2": "picked",
+      "v3": "picked",
+      "id": "47937a915acb51a4341f69f731693b8d"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u09BE\u09B0\u09CD\u09A5\u09A8\u09BE \u0995\u09B0\u09BE",
+      "v1": "pray",
+      "v2": "prayed",
+      "v3": "prayed",
+      "id": "8aeebdb72d26476a3edab07c98cee91b"
+   },
+   {
+      "bn": "\u099F\u09BE\u09A8\u09BE",
+      "v1": "pull",
+      "v2": "pulled",
+      "v3": "pulled",
+      "id": "2f18d8e5ea134960ea0004932518f423"
+   },
+   {
+      "bn": "\u09B6\u09BE\u09B8\u09CD\u09A4\u09BF \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "punish",
+      "v2": "punished",
+      "v3": "punished",
+      "id": "2e02b6e9ef9649bbfac5615035b4e143"
+   },
+   {
+      "bn": "\u09A4\u09C8\u09B0\u09BF \u0995\u09B0\u09BE",
+      "v1": "prepare",
+      "v2": "prepared",
+      "v3": "prepared",
+      "id": "9dba4e459437dea5e7c62c7a64fa9b35"
+   },
+   {
+      "bn": "\u09B2\u09BE\u0999\u09CD\u0997\u09B2 \u099A\u09B7\u09BE",
+      "v1": "plough",
+      "v2": "ploughed",
+      "v3": "ploughed",
+      "id": "eca86725e867a9665ab7629dcda17668"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u09B8\u09A8\u09CD\u09A8 \u0995\u09B0\u09BE",
+      "v1": "please",
+      "v2": "pleased",
+      "v3": "pleased",
+      "id": "23bc8d8435877528fb90fcb5eeff3444"
+   },
+   {
+      "bn": "\u09A0\u09C7\u09B2\u09BE",
+      "v1": "push",
+      "v2": "pushed",
+      "v3": "pushed",
+      "id": "9d96aa5d89ed679eac89df0a1f231450"
+   },
+   {
+      "bn": "\u099D\u0997\u09A1\u09BC\u09BE \u0995\u09B0\u09BE",
+      "v1": "quarrel",
+      "v2": "quarrelled",
+      "v3": "quarrelled",
+      "id": "aa7c81cf5de921b1237ee68840f170e1"
+   },
+   {
+      "bn": "\u09AC\u09C3\u09B7\u09CD\u099F\u09BF \u09B9\u0993\u09AF\u09BC\u09BE",
+      "v1": "rain",
+      "v2": "rained",
+      "v3": "rained",
+      "id": "39f85e4a82bdc6c6a79cc2228df5a3f8"
+   },
+   {
+      "bn": "\u09AA\u09CC\u0981\u099B\u09BE\u09A8\u09CB",
+      "v1": "reach",
+      "v2": "reached",
+      "v3": "reached",
+      "id": "4b8ffcc20dd5526b112913c02b6ffc47"
+   },
+   {
+      "bn": "\u0985\u09B8\u09CD\u09AC\u09C0\u0995\u09BE\u09B0 \u0995\u09B0\u09BE",
+      "v1": "refuse",
+      "v2": "refused",
+      "v3": "refused",
+      "id": "8d6274c008752731a8ab4ee13edb8588"
+   },
+   {
+      "bn": "\u09A7\u09CD\u09AC\u0982\u09B8 \u0995\u09B0\u09BE",
+      "v1": "ruin",
+      "v2": "ruined",
+      "v3": "ruined",
+      "id": "d48bb298c6f3f1961d2e8106890ec8d4"
+   },
+   {
+      "bn": "\u099A\u0995\u099A\u0995 \u0995\u09B0\u09BE",
+      "v1": "shine",
+      "v2": "shone",
+      "v3": "shone",
+      "id": "e7691479542d3a8a1626242085ce5eac"
+   },
+   {
+      "bn": "\u09AC\u09BF\u0995\u09CD\u09B0\u09BF \u0995\u09B0\u09BE",
+      "v1": "sell",
+      "v2": "sold",
+      "v3": "sold",
+      "id": "dc30b6f83179ad6f1191224c9d5244c8"
+   },
+   {
+      "bn": "\u0997\u09C1\u09B2\u09BF \u099A\u09BE\u09B2\u09BE\u09A8\u09CB",
+      "v1": "shoot",
+      "v2": "shot",
+      "v3": "shot",
+      "id": "c65a6f649ba48259747b175cccbd7277"
+   },
+   {
+      "bn": "\u0998\u09C1\u09AE\u09CB\u09A8\u09CB",
+      "v1": "sleep",
+      "v2": "slept",
+      "v3": "slept",
+      "id": "1cc70bc347e24a889f397a63494666ff"
+   },
+   {
+      "bn": "\u099D\u09BE\u0981\u099F \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "sweep",
+      "v2": "swept",
+      "v3": "swept",
+      "id": "6159dbe5d4d10935c40ecd83ad9391c0"
+   },
+   {
+      "bn": "\u0997\u09A8\u09CD\u09A7 \u09B8\u09CB\u0995\u09BE",
+      "v1": "smell",
+      "v2": "smelt",
+      "v3": "smelt",
+      "id": "a636272cd78cf02d96d9a685757fba1e"
+   },
+   {
+      "bn": "\u0996\u09B0\u099A \u0995\u09B0\u09BE",
+      "v1": "spend",
+      "v2": "spent",
+      "v3": "spent",
+      "id": "2b9918cde450124988fe5657f394624a"
+   },
+   {
+      "bn": "\u09A7\u09A8\u09CD\u09AF\u09AC\u09BE\u09A6 \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "thank",
+      "v2": "thanked",
+      "v3": "thanked",
+      "id": "a77fdf4f8f3cae5007f22f5f588e868d"
+   },
+   {
+      "bn": "\u09AC\u09BE\u0981\u09A7\u09BE",
+      "v1": "tie",
+      "v2": "tied",
+      "v3": "tied",
+      "id": "a2025335b860ae4b4f406a29f58e6a49"
+   },
+   {
+      "bn": "\u09AA\u09B0\u09C0\u0995\u09CD\u09B7\u09BE \u0995\u09B0\u09BE",
+      "v1": "test",
+      "v2": "tested",
+      "v3": "tested",
+      "id": "49e287b23b1ddbcb4b2ee85f0278c2ae"
+   },
+   {
+      "bn": "\u0985\u09AA\u09C7\u0995\u09CD\u09B7\u09BE \u0995\u09B0\u09BE",
+      "v1": "wait",
+      "v2": "waited",
+      "v3": "waited",
+      "id": "660fe6a391e1a18b5b933ea6275f2597"
+   },
+   {
+      "bn": "\u0995\u09BE\u099C \u0995\u09B0\u09BE",
+      "v1": "work",
+      "v2": "worked",
+      "v3": "worked",
+      "id": "d5847f02a54b2532e4a8b68cfbfd2597"
+   },
+   {
+      "bn": "\u0987\u099A\u09CD\u099B\u09BE \u09AA\u09CD\u09B0\u0995\u09BE\u09B6 \u0995\u09B0\u09BE",
+      "v1": "wish",
+      "v2": "wished",
+      "v3": "wished",
+      "id": "b80c3dabafb4a8c383a9e1057568374a"
+   },
+   {
+      "bn": "\u099C\u09DF\u09B2\u09BE\u09AD \u0995\u09B0\u09BE",
+      "v1": "win",
+      "v2": "won",
+      "v3": "won",
+      "id": "37774832265fab1b0e5ae9f1b739d173"
+   },
+   {
+      "bn": "\u0995\u09BE\u0981\u09A6\u09BE",
+      "v1": "weep / cry",
+      "v2": "wept / cried",
+      "v3": "wept / cried",
+      "id": "7e09352f2470e6379ade57989b4fd053"
+   },
+   {
+      "bn": "\u0993\u099C\u09A8 \u0995\u09B0\u09BE",
+      "v1": "weigh",
+      "v2": "weighed",
+      "v3": "weighed",
+      "id": "d3395ff703e2b8f5eac7b7299130995b"
+   },
+   {
+      "bn": "\u09B9\u09BE\u09B0 \u09AE\u09BE\u09A8\u09BE",
+      "v1": "yield",
+      "v2": "yielded",
+      "v3": "yielded",
+      "id": "dd34995f8568ef7f88f2553fbec51566"
+   },
+   {
+      "bn": "\u0993\u09A0\u09BE",
+      "v1": "arise",
+      "v2": "arose",
+      "v3": "arisen",
+      "id": "b95f646998c8d5d35cd5636e66d5ddc3"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u09B9\u09B0 \u0995\u09B0\u09BE",
+      "v1": "beat",
+      "v2": "beat",
+      "v3": "beaten",
+      "id": "1a138b032361616897f53e947eac57c4"
+   },
+   {
+      "bn": "\u09AD\u09BE\u0999\u09BE",
+      "v1": "break",
+      "v2": "broke",
+      "v3": "broken",
+      "id": "9bdc61d199f0b9b634c6bfba691b933e"
+   },
+   {
+      "bn": "\u0995\u09BE\u09AE\u09A1\u09BC\u09BE\u09A8\u09CB",
+      "v1": "bite",
+      "v2": "bit",
+      "v3": "bitten",
+      "id": "a21f900afc4f8a6369bb34a7e5fa3381"
+   },
+   {
+      "bn": "\u099C\u09A8\u09CD\u09AE \u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "bear",
+      "v2": "bore",
+      "v3": "bore",
+      "id": "49dc327c760cad2a65284e542704118a"
+   },
+   {
+      "bn": "\u09B8\u09B9\u09CD\u09AF \u0995\u09B0\u09BE",
+      "v1": "bear",
+      "v2": "bore",
+      "v3": "bore",
+      "id": "2769c0e9e9ff294affb57fdb0c2d081e"
+   },
+   {
+      "bn": "\u09B9\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "be [ is , am , are ]",
+      "v2": "was / were",
+      "v3": "been",
+      "id": "8fc28954e9c2a8d9c826884994873345"
+   },
+   {
+      "bn": "\u09AA\u099B\u09A8\u09CD\u09A6 \u0995\u09B0\u09BE",
+      "v1": "choose",
+      "v2": "chose",
+      "v3": "chosen",
+      "id": "97e2f8c76a3f6a93fa67000f7aac4532"
+   },
+   {
+      "bn": "\u099A\u09BE\u09B2\u09BE\u09A8\u09CB",
+      "v1": "drive",
+      "v2": "drove",
+      "v3": "drove",
+      "id": "48c822c62bbe8a079e9ad10e271d830a"
+   },
+   {
+      "bn": "\u099F\u09BE\u09A8\u09BE",
+      "v1": "draw",
+      "v2": "drew",
+      "v3": "drawn",
+      "id": "317255e346c79ab3a84d6406be91d477"
+   },
+   {
+      "bn": "\u09AD\u09C1\u09B2\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "forget",
+      "v2": "forgot",
+      "v3": "forgotten",
+      "id": "3a89c57f6fb62691c69ee3ff1f7fd9bb"
+   },
+   {
+      "bn": "\u09AA\u09DC\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "fall",
+      "v2": "fell",
+      "v3": "fallen",
+      "id": "6a61f5a971cb264cd5f22b4687909715"
+   },
+   {
+      "bn": "\u099C\u09AE\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "freeze",
+      "v2": "froze",
+      "v3": "frozen",
+      "id": "b2ad27961fa00deecbb1818461d6baec"
+   },
+   {
+      "bn": "\u0993\u09DC\u09BE",
+      "v1": "fly",
+      "v2": "flew",
+      "v3": "flown",
+      "id": "0d1b58a8efadb02215293a26f4e1471a"
+   },
+   {
+      "bn": "\u09A6\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "give",
+      "v2": "gave",
+      "v3": "given",
+      "id": "3da59e14830d99ccd84d45b79abdd2b8"
+   },
+   {
+      "bn": "\u09AC\u09DC \u09B9\u0993\u09AF\u09BC\u09BE",
+      "v1": "grow",
+      "v2": "grew",
+      "v3": "grown",
+      "id": "9d39999c10d190abfe523fd2153fb9a8"
+   },
+   {
+      "bn": "\u09B2\u09C1\u0995\u09BE\u09A8\u09CB",
+      "v1": "hide",
+      "v2": "hid",
+      "v3": "hidden",
+      "id": "7c737834f81122f5d2a56decf3f89699"
+   },
+   {
+      "bn": "\u099C\u09BE\u09A8\u09BE",
+      "v1": "know",
+      "v2": "knew",
+      "v3": "known",
+      "id": "2b18971dc9b9eba65188bb9016cdc8fc"
+   },
+   {
+      "bn": "\u09B6\u09CB\u0993\u09AF\u09BC\u09BE",
+      "v1": "lie",
+      "v2": "lay",
+      "v3": "laid",
+      "id": "4f45b1cabb7866dcb5b9b18b609d9af4"
+   },
+   {
+      "bn": "\u0998\u09CB\u09A1\u09BC\u09BE\u09AF\u09BC \u099A\u09A1\u09BC\u09BE",
+      "v1": "ride",
+      "v2": "rode",
+      "v3": "ridden",
+      "id": "9a1c43ec03fa1f4e4192f9a8621ea2d0"
+   },
+   {
+      "bn": "\u0993\u09A0\u09BE",
+      "v1": "rise",
+      "v2": "rose",
+      "v3": "risen",
+      "id": "7ff89a629117806a9e85d4b6f437b776"
+   },
+   {
+      "bn": "\u09A6\u09C7\u0996\u09BE",
+      "v1": "see",
+      "v2": "saw",
+      "v3": "seen",
+      "id": "2b70ca37b92b0d12c2129e9d792bc671"
+   },
+   {
+      "bn": "\u09A8\u09BE\u09A1\u09BC\u09BE\u09A8\u09CB",
+      "v1": "shake",
+      "v2": "shook",
+      "v3": "shaken",
+      "id": "6c5862c5b9385577a538b4db42f96a63"
+   },
+   {
+      "bn": "\u099A\u09C1\u09B0\u09BF \u0995\u09B0\u09BE",
+      "v1": "steal",
+      "v2": "stole",
+      "v3": "stolen",
+      "id": "2495f3e9dc9322dddb4bbdf3406042d4"
+   },
+   {
+      "bn": "\u09AC\u09B2\u09BE",
+      "v1": "speak",
+      "v2": "spoke",
+      "v3": "spoken",
+      "id": "e835d8df3aaf8d94bdeca33942fde84a"
+   },
+   {
+      "bn": "\u09AA\u09CD\u09B0\u09A4\u09BF\u0999\u09CD\u0997\u09BE \u0995\u09B0\u09BE",
+      "v1": "swear",
+      "v2": "swore",
+      "v3": "sworn",
+      "id": "9e87df7d2f2de528ebd8848024ab159a"
+   },
+   {
+      "bn": "\u099B\u09C7\u0981\u09A1\u09BC\u09BE",
+      "v1": "tear",
+      "v2": "tore",
+      "v3": "torn",
+      "id": "25b6da641237bf76ea04373cee2f6a23"
+   },
+   {
+      "bn": "\u09A8\u09C7\u0993\u09AF\u09BC\u09BE",
+      "v1": "take",
+      "v2": "took",
+      "v3": "taken",
+      "id": "2f977c5dfcdf893d425b67c405b20fc4"
+   },
+   {
+      "bn": "\u099B\u09CB\u09A1\u09BC\u09BE",
+      "v1": "throw",
+      "v2": "threw",
+      "v3": "thrown",
+      "id": "0f5d5a1aee9059a90997ad6482cb9aa7"
+   },
+   {
+      "bn": "\u099C\u09BE\u0997\u09BE",
+      "v1": "wake",
+      "v2": "woke",
+      "v3": "woken",
+      "id": "14d2934813e710d60b9db1bb701580c1"
+   },
+   {
+      "bn": "\u099C\u09BE\u09AE\u09BE\u0995\u09BE\u09AA\u09A1\u09BC \u09AA\u09B0\u09BE",
+      "v1": "wear",
+      "v2": "wore",
+      "v3": "worn",
+      "id": "00596d8a891c0d199478767b9ce75576"
+   },
+   {
+      "bn": "\u0995\u09BE\u09AA\u09A1\u09BC \u09AC\u09CB\u09A8\u09BE",
+      "v1": "weave",
+      "v2": "wove",
+      "v3": "woven",
+      "id": "d9a7be97be6c81c2c5d4ab038892deff"
+   },
+   {
+      "bn": "\u09B2\u09C7\u0996\u09BE",
+      "v1": "write",
+      "v2": "wrote",
+      "v3": "written",
+      "id": "dc845d55ce27eca4098c7a99edab62bc"
+   },
+   {
+      "bn": "\u0986\u09B0\u09AE\u09CD\u09AD \u0995\u09B0\u09BE",
+      "v1": "begin",
+      "v2": "began",
+      "v3": "begun",
+      "id": "83dfd5f42094184ae4c2d9b9be41d9d2"
+   },
+   {
+      "bn": "\u09AA\u09BE\u09A8 \u0995\u09B0\u09BE",
+      "v1": "drink",
+      "v2": "drank",
+      "v3": "drunk",
+      "id": "664aec2b2f438ca9079b120adfc8986b"
+   },
+   {
+      "bn": "\u0998\u09A8\u09CD\u099F\u09BE \u09AC\u09BE\u099C\u09BE\u09A8\u09CB",
+      "v1": "ring",
+      "v2": "rang",
+      "v3": "rung",
+      "id": "4748efb7e0a9ff47aa4086d42b205466"
+   },
+   {
+      "bn": "\u09A6\u09CC\u09A1\u09BC\u09BE\u09A8\u09CB",
+      "v1": "run",
+      "v2": "ran",
+      "v3": "run",
+      "id": "fbc1d290d5d82953fdb90e612ca95268"
+   },
+   {
+      "bn": "\u09A1\u09C1\u09AC\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "sink",
+      "v2": "sank",
+      "v3": "sunk",
+      "id": "f5934a57c22bfa250426431e863a1886"
+   },
+   {
+      "bn": "\u0997\u09BE\u09A8 \u0997\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "sing",
+      "v2": "sang",
+      "v3": "sung",
+      "id": "51929854873ec87fb5559604e421f66d"
+   },
+   {
+      "bn": "\u09B2\u09BE\u09AB\u09BE\u09A8\u09CB",
+      "v1": "spring",
+      "v2": "sprang",
+      "v3": "sprung",
+      "id": "8e0fb14b4458188e208ab2c2e4624f96"
+   },
+   {
+      "bn": "\u09B8\u09BE\u0981\u09A4\u09BE\u09B0 \u0995\u09BE\u099F\u09BE",
+      "v1": "swim",
+      "v2": "swam",
+      "v3": "swum",
+      "id": "bf6cf4b1dc7608aeff7b16c5412be133"
+   },
+   {
+      "bn": "\u0995\u09C1\u0981\u0995\u09A1\u09BC\u09C7 \u09AF\u09BE\u0993\u09AF\u09BC\u09BE",
+      "v1": "shrink",
+      "v2": "shrank",
+      "v3": "shrunk",
+      "id": "16294889317dea92ab784e65cd8453b3"
+   }
+]

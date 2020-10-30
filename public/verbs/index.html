@@ -7,7 +7,6 @@
 <title>list of verbs</title>
 <link rel="stylesheet" href="./src/css/verbs.css">
 <script src="./src/js/verbs.js"></script>
-<script src="./src/js/data1.js"></script>
 </head>
 <body>
 <input type="text" id="myInput" onkeyup="myFu()">
@@ -18,42 +17,21 @@
   <tbody id="tbody">
   </tbody>
 </table>
+
+<div class="form">
+  <form id="formData" action="add" method="POST">
+  <label for="Bengali">Bengali</label>
+  <input type="text" name="bn" id="Bengali" value="" /><br />
+  <label for="present">present</label>
+  <input type="text" name="v1" id="present" value="" /><br />
+  <label for="past">past</label>
+  <input type="text" name="v2" id="past" value="" /><br />
+  <label for="future">future</label>
+  <input type="text" name="v3" id="future" value="" /><br />
+  <input type="submit" value="submit" />
+  </form>
+</div>
+
 <script src="./src/js/verbs2.js"></script>
-<script type="text/javascript">
-(function(a){
-'use strict';
-    try {
-       const url = new URL(a);
-       const _protocol = url.protocol;
-       const _href = url.href;
-   switch (_protocol){
-         case 'https:':
-         case 'http:':
-         case 'file:':
-                 return _href;
-               break;
-         case 'content:':
-             const AndroidReg = /^(content:)\/(\/?)+[a-zA-Z0-9\.\u005F]+\/[a-zA-Z0-9\.\u005F]+/i;
-             const AndroidUrl = _href.replace(AndroidReg,'file:\/\/\/sdcard');
-             document.body.innerHTML=`
-    <div style="text-align:center;color:rgba(255,0,0,1);background-color:rgba(200,0,0,0.3);margin:5px;padding:5px;width:${screen.width}px;">
-    <h3>Error URL<\/h3><br>
-    <div style="text-align:left;word-wrap:break-word;">${_href}<\/div>
-    <\/div>
-    <div style="text-align: left;color:rgba(0,100,100,1);background-color:rgba(0,255,0,0.1);margin:5px;padding:5px;width:${screen.width}px;">
-    <div style="color:rgb(250,0,250);font-size:20px;text-align:left;word-wrap:break-word;">open this url<\/div><br>
-    <div style="word-wrap:break-word;">${AndroidUrl}<\/div>
-    <\/div>
-             `; //\//
-                   return AndroidUrl;
-               break;
-         default:
-                 return _href;
-    }
-  } catch (err){
-       console.error(err);
-       return 'Invalid URL'; }
-}(window.location));
-</script>
 </body>
 </html>
